@@ -103,7 +103,7 @@ The system is divided into three main decentralized modules:
 - **Backend:** Node.js, Express.js  
 - **Security & Environment:** CORS, dotenv  
 - **Cryptography:** BBS+ Signatures, PLONK (zk-SNARK)  
-- **Repository:** `[Kaustabha-000/zkp-project.git]`
+- **Repository:** `Kaustabha-000/zkp-project.git`
 
 ___
 
